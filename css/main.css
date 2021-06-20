@@ -358,6 +358,20 @@ footer h4{
   }
 
 
+  .back-to-top {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    display: none;
+    z-index: 1000;
+    background-color: #01CAB8;
+    color: white;
+}
+  .back-to-top:hover {
+    background-color: #00afa1;
+    color: white;
+}
+
 
 
 
